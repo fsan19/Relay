@@ -1,3 +1,11 @@
+Design a Frequency Relay using Free RTOS and Nios Software Build Tools on DE2-115 Board
+
+
+See Report inside for project Details.
+
+Feneel Sanghavi and Utsav Trivedi
+
+
 ## OS and Tools for Assignment
 Windows 10, Quartus 13.0 64 bit, Nios II Software Build Tools for Eclipse and DE2-115 FPGA Board.
 
